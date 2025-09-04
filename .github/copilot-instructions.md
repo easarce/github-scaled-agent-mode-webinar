@@ -3,8 +3,8 @@
 ## GitHub Repo Information
 
 This repo is hosted in GitHub:
-- owner: octodemo
-- repo: copilot_agent_mode-urban-waddle
+- owner: easarce
+- repo: github-scaled-agent-mode-webinar
 
 ## Architecture
 
