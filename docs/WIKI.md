@@ -17,7 +17,7 @@ This quick wiki provides a concise, single-page reference for developers, contri
 ## Architecture (high-level)
 - Backend: Express.js API with entities and REST routes in `api/src/`.
 - Frontend: React + Vite app in `frontend/` with components and contexts under `src/`.
-- Integration: Frontend talks to API over REST (default localhost ports: API 3000, Frontend 5137).
+- Integration: Frontend talks to API over REST (default localhost ports: API 3000, Frontend 5137)
 
 See detailed architecture: `docs/architecture.md`.
 
