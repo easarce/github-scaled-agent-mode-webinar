@@ -16,8 +16,8 @@ tools: ['fetch', 'search', 'editFiles']
 Generate (or update) a file named `model-comparison.md` with the following content:
 
 - Create one section per model use-case listed on the very top of the GitHub Documentation page (balance beteween performance and cost, fast,low-cst support for basic tasks, deep reasoning and multimodal inputs).
-- Add missing models to the sections where they make the most sense
-- Add models to nly ONE section where they make the most sense. Don't duplicate them accross sections.
+- Add missing models to the sections where they make the most sense.
+- Add models to only ONE section where they make the most sense. Don't duplicate them accross sections.
 - In each section, list the high-level pros (e.g., speed, deep reasoning, etc.) concisely.
 - Below, generate a table for that use case, listing all models that fit within it, with the following columns/information:
   - The primary use case and differentiator for each model (e.g., "generate documentation", "common development", "complex architecture questions").
