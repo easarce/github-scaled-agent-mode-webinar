@@ -1,6 +1,6 @@
 # OctoCAT Supply Chain Management — Wiki
 
-This quick wiki provides a concise, single-page reference for developers, contributors, and demo presenters working with the OctoCAT Supply Chain Management application.
+This quick wiki provides a concise, single-page reference for developers, contributors, and demo presenters working with the OctoCAT Supply Chain Management application
 
 ## Quick Overview
 - Tech stack: TypeScript, Node + Express (API), React + Vite (Frontend), Tailwind CSS
