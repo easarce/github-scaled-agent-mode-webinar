@@ -16,8 +16,7 @@
     "test": "npm run test --workspaces",
     "test:api": "npm run test --workspace=api",
     "test:frontend": "npm run test --workspace=frontend",
-    "lint": "npm run lint --workspace=frontend",
-    "stop": "concurrently \"npm run stop --workspace=api\" \"npm run stop --workspace=frontend\""
+    "lint": "npm run lint --workspace=frontend"
   },
   "devDependencies": {
     "concurrently": "^6.2.1"
